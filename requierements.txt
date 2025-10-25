@@ -1,0 +1,8 @@
+PyQt6
+yt-dlp
+SQLAlchemy
+requests
+Pillow
+pytest
+pytest-qt
+pytest-mock
