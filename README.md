@@ -1,5 +1,3 @@
-Aquí tienes la documentación final y exhaustiva del proyecto "Advanced Video Downloader", cubriendo todos los aspectos solicitados: README, Guía de Usuario, Arquitectura del Sistema y Documentación de la API.
-
 ---
 
 # Documentación Exhaustiva: Advanced Video Downloader
